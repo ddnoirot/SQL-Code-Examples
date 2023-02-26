@@ -1,2 +1,2 @@
 # Pro-Show
-Digital showroom for DDN projects/code examples.
+Showroom for code examples.
